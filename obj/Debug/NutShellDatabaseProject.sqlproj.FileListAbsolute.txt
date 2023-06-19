@@ -1,0 +1,10 @@
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\bin\Debug\NutShellDatabaseProject.dacpac
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\bin\Debug\NutShellDatabaseProject.dll
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\bin\Debug\NutShellDatabaseProject.pdb
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\obj\Debug\NutShellDatabaseProject.sqlproj.AssemblyReference.cache
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\obj\Debug\Model.xml
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\obj\Debug\refactor.xml
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\obj\Debug\postdeploy.sql
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\obj\Debug\predeploy.sql
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\obj\Debug\NutShellDatabaseProject.dll
+d:\My Documents\SQLDb Projects\NutShellDatabaseProject\obj\Debug\NutShellDatabaseProject.pdb
